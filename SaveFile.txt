@@ -1,0 +1,9 @@
+
+Membership number : 2
+Member Name : Sean
+Student school name : Central
+Membership start date :  1/7/2018
+Membership number : 3
+Member Name : David
+Over 60 member age : 0
+Membership start date :  1/4/2015
